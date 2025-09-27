@@ -1,1 +1,21 @@
 
+# Module 3: Interactive Visual Analytics (Folium and Dash)
+
+## Overview
+- Built interactive tools to visualize launch data.  
+- Developed Folium maps and Plotly Dash dashboard.  
+
+## Objectives
+- Map launch sites and outcomes with Folium.  
+- Create an interactive dashboard with Dash.  
+- Allow dynamic filtering by site and payload.  
+
+## Methodology
+- Folium for geographic visualization of launch sites.  
+- Marker clusters for success/failure visualization.  
+- Dash app with dropdowns, sliders, and graphs.  
+
+## Deliverables
+- Folium map saved as HTML.  
+- Dash app in `app/spacex_dash_app.py`.  
+- Notebooks documenting visualizations.  
