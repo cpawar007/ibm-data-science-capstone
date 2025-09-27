@@ -1,1 +1,27 @@
+# Module 4: Predictive Analysis (Machine Learning Models)
+
+## Overview
+- Applied machine learning models to predict launch outcomes.  
+- Tuned models and compared performance.  
+
+## Objectives
+- Train and evaluate ML models on launch data.  
+- Perform hyperparameter tuning with GridSearchCV.  
+- Identify the best performing model.  
+
+## Methodology
+- Split dataset into train/test sets (80/20).  
+- Standardized features with `StandardScaler`.  
+- Trained Logistic Regression, SVM, Decision Tree, and KNN.  
+- Used GridSearchCV for hyperparameter tuning.  
+- Evaluated models on validation and test sets.  
+
+## Results
+- Logistic Regression achieved good accuracy.  
+- SVM with RBF kernel performed best overall.  
+- Decision Trees and KNN provided alternative insights.  
+
+## Deliverables
+- ML notebooks with training and results.  
+- Accuracy metrics and best hyperparameters.  
 
