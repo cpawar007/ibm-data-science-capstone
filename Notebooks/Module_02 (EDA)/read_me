@@ -1,1 +1,20 @@
+# Module 2: Exploratory Data Analysis (EDA) with SQL and Visualization
+
+## Overview
+- Performed structured and visual analysis of SpaceX launch data.  
+- Used SQL queries and visualizations to uncover insights.  
+
+## Objectives
+- Explore data using SQL queries.  
+- Visualize launch trends with charts.  
+- Understand launch success distribution.  
+
+## Methodology
+- Queried dataset using SQLite and SQL magic in Jupyter.  
+- Generated plots with Matplotlib, Seaborn, and Plotly.  
+- Compared launch sites, payload, and outcomes.  
+
+## Deliverables
+- SQL query results notebook.  
+- EDA notebook with visual insights.  
 
