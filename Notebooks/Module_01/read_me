@@ -1,1 +1,22 @@
+# Module 1: Data Collection and Wrangling
 
+## Overview
+- Focused on gathering and cleaning SpaceX Falcon 9 launch data.  
+- Data sources included APIs, CSV files, and web scraping.  
+- Ensured the dataset was clean and consistent for further analysis.  
+
+## Objectives
+- Collect launch records from API and Wikipedia.  
+- Perform web scraping to gather missing data.  
+- Handle missing values and inconsistent formats.  
+- Save cleaned data for later modules.  
+
+## Methodology
+- Used `requests` and `BeautifulSoup` for data extraction.  
+- Loaded CSV datasets using Pandas.  
+- Handled missing values with imputation or removal.  
+- Standardized column names and data formats.  
+
+## Deliverables
+- Cleaned dataset stored in `data/` folder.  
+- Notebook documenting collection and wrangling process.  
